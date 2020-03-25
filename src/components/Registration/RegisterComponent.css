@@ -1,0 +1,21 @@
+#SignUp {
+    margin: auto;
+    height: 100%;
+    padding-top: 50px;
+    max-width: 1500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#SignUpText {
+    font-size: 25px;
+    text-align: center;
+}
+
+#tos-container {
+    display: flex;
+    cursor: pointer;
+}
+
+#alert-box {
+    margin: 1em;
+}

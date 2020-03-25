@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,500');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    overflow: auto;
+    z-index: -1;
+    background-image: url("../src/common/images/background.jpg");
+    background-size: 100% auto;
+}

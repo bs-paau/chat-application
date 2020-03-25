@@ -1,0 +1,79 @@
+#select-room-header {
+    font-weight: bold;
+    background: #eaeaea;
+    border-bottom: 1px solid #b4b4b4;
+    color: #717274;
+    padding: 4px 2px 4px 10px;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+#room-list {
+    display: flex;
+    flex-direction: column;
+}
+
+#room-search-box {
+    position: relative;
+}
+
+#room-search-filter {
+    border: 1px solid black;
+    height: 25px;
+    padding-left: 30px;
+}
+
+#room-search-glass {
+    position: absolute;
+    left: 10px;
+    top: 8px;
+}
+
+#room-spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#error-info {
+    margin: 15px auto 0 auto;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bot-border {
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.bot-border:hover {
+    border-bottom: none;
+}
+
+.room-list-item {
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.room-list-item:hover {
+    background: #eaf5fc;
+    border: 1px solid #cbe7f7
+}
+
+.room-list-item-header {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 10px;
+}
+
+.room-list-item-name {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+.room-list-item-admin {
+    color: #505050;
+}

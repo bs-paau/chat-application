@@ -1,0 +1,200 @@
+.default-input,
+.default-input-button {
+    background: #fcfcfc;
+    border: 2px solid #e7e7e7;
+    margin: 20px auto;
+    padding: 15px;
+    width: 100%;
+    display: block;
+    border-radius: 3px;
+    font-size: 18px;
+    transition: opacity 0.4s;
+    text-align: left;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.default-input-button {
+    color: white;
+    background-color: #3F7CAC;
+    border: none;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 0;
+    padding: 15px 17px;
+    height: auto;
+}
+
+.default-input-button,
+.no-select {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.simple-flex {
+    display: flex;
+    align-items: center;
+}
+
+.simple-card {
+    border-radius: 5px;
+    background-color: white;
+    width: 480px;
+    margin: 50px auto auto;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.primary-color {
+    color: #3F7CAC;
+}
+
+.primary-color-bg {
+    background-color: #3F7CAC;
+}
+
+.secondary-color {
+    color: #823038;
+}
+
+.secondary-color-bg {
+    background-color: #823038;
+}
+
+.third-color {
+    color: #D1D1D1;
+}
+
+.third-color-bg {
+    background-color: #D1D1D1;
+}
+
+.fourth-color {
+    color: #D0FEF5;
+}
+
+.fourth-color-bg {
+    background-color: #D0FEF5;
+}
+
+.fifth-color {
+    color: #262F38;
+}
+
+.fifth-color-bg {
+    background-color: #262F38;
+}
+
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+.col-s-1 {
+    width: 8.33%;
+}
+
+.col-s-2 {
+    width: 16.66%;
+}
+
+.col-s-3 {
+    width: 25%;
+}
+
+.col-s-4 {
+    width: 33.33%;
+}
+
+.col-s-5 {
+    width: 41.66%;
+}
+
+.col-s-6 {
+    width: 50%;
+}
+
+.col-s-7 {
+    width: 58.33%;
+}
+
+.col-s-8 {
+    width: 66.66%;
+}
+
+.col-s-9 {
+    width: 75%;
+}
+
+.col-s-10 {
+    width: 83.33%;
+}
+
+.col-s-11 {
+    width: 91.66%;
+}
+
+.col-s-12 {
+    width: 100%;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}

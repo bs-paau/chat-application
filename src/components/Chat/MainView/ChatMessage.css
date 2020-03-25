@@ -1,0 +1,78 @@
+.bubble {
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px 20px;
+    display: flex;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.message-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.time {
+    color: #37464e;
+    font-size: 10px;
+    vertical-align: bottom;
+}
+
+/*!** BUBBLES **!*/
+
+/*.container{*/
+    /*border-radius: 15px;*/
+    /*padding: 10px;*/
+    /*margin:10px 20px;*/
+/*}*/
+
+
+/*.bubble-white {*/
+
+    /*width: 500px;*/
+    /*color: #000;*/
+    /*background-color: #f1f1f1;*/
+/*}*/
+
+
+/*.bubble-blue {*/
+    /*width: 500px;*/
+    /*color: #fff;*/
+    /*background-color: #3F7CAC;*/
+    /*float: right;*/
+/*}*/
+
+/*.container::after {*/
+    /*content: "";*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+
+/*.container img {*/
+    /*float: left;*/
+    /*max-width: 60px;*/
+    /*width: 100%;*/
+    /*margin-right: 20px;*/
+    /*border-radius: 50%;*/
+/*}*/
+
+/*.container img.right {*/
+    /*float: right;*/
+    /*margin-left: 20px;*/
+    /*margin-right:0;*/
+/*}*/
+
+/*.time-right {*/
+    /*float: right;*/
+    /*color: #aaa;*/
+/*}*/
+
+/*.time-left {*/
+    /*float: left;*/
+    /*color: #999;*/
+/*}*/

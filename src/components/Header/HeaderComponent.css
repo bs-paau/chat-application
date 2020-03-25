@@ -1,0 +1,45 @@
+a, a:hover, a:visited, a:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+#headerCompanyText {
+    display: inline-block;
+    font-size: 30px;
+    margin: 8px ;
+    height: 100%;
+    font-weight: 500;
+}
+
+#header {
+    color: #000;
+    position: fixed;
+    height: 50px;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid ;
+    border-color: #128ff2;
+    background-image: url("../Header/images/background.jpg");
+}
+
+#headerCenter {
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100%;
+}
+
+.headerButton {
+    font-weight: 300;
+    font-size: 20px;
+    float: right;
+    margin-left: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+#app-header_logo {
+    max-height: 50px;
+}
+

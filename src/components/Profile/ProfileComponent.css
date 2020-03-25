@@ -1,0 +1,62 @@
+/* Modal Dialog */
+.modal-container {
+    position: relative;
+}
+
+.modal-container .modal, .modal-container .modal-backdrop {
+    position: absolute;
+}
+
+/* Project CSS */
+h2 {
+    margin: 0;
+    color: #fff;
+}
+
+.box {
+    border: 2px solid #f1f1f1;
+    padding: 2em;
+    margin: 2em auto;
+}
+
+#profile {
+    margin: auto;
+    height: 100%;
+    padding-top: 100px;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+#inner-profile {
+    width: 100%;
+    max-width: 1500px;
+    margin: auto;
+}
+
+/* User Data */
+#user-data {
+    display: flex;
+    flex-direction: column;
+}
+
+#user-data-row {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+#user-data-row-key {
+    flex: 0 0 100px;
+}
+
+#user-data-row-value {
+    flex: 1 1;
+}
+
+.Buttons {
+    width:500px;
+    margin: 0px auto auto;
+    padding: 10px;
+}
+

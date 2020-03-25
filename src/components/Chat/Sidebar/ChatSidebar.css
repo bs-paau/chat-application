@@ -1,0 +1,10 @@
+#sidebar {
+    background-color: #262f38;
+    color: white;
+    padding: 5px 10px;
+    height: 100%;
+    flex-shrink: 0;
+    flex-grow: 0;
+    flex-basis: 275px;
+    float:left;
+}

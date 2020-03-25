@@ -1,0 +1,20 @@
+#not-verified-label {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    color: black;
+}
+
+#not-verified-text {
+    width: 150px;
+}
+
+#not-verified-popover {
+    top: -75px;
+    left: 150px;
+}
+
+
+#alert-box-profile {
+
+}

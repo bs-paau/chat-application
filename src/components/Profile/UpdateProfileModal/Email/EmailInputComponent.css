@@ -1,0 +1,17 @@
+#edit-button-email {
+    position: absolute;
+    bottom: 9px;
+    right: 8px;
+    font-size: 22px;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+}
+
+#edit-button-email:hover {
+    color: #3F7CAC;
+}
+
+#not-verified-div {
+    transition: all 0.5s ease-in-out;
+}
