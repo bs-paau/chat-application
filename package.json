@@ -19,7 +19,7 @@
     "line-height": "^0.3.1",
     "material-ui": "^0.20.0",
     "material-ui-search-bar": "^1.0.0-beta.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "portable-fetch": "^3.0.0",
     "react": "^16.3.2",
     "react-autosize-textarea": "^3.0.3",
